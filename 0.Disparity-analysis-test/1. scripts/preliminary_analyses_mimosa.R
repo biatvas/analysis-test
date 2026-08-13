@@ -2,7 +2,7 @@
 # 1. Head ----------------------------------------------------------------------
 #==============================================================================#
 
-setwd("C:/Users/moniq/OneDrive/doctorate/mentoring/IC-Bia") #defining work directory
+setwd("Documents/GitHub/analysis-test/0.Disparity-analysis-test/") #defining work directory
 
 if (!require(librarian)) install.packages("librarian"); library("librarian")
 librarian::shelf(phytools, dplyr, purrr, factoextra) #installing and/or loading packages
