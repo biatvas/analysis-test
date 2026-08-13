@@ -1,0 +1,22 @@
+help(setwd)
+setwd("C:/Users/Eulália/Desktop/bia/Labis/Dados_treino")
+if (!require(librarian)) install.packages("librarian"); library("librarian")
+librarian::shelf(tidyverse, FactoMineR, phytools, data.table, dplyr)
+
+### colocando o nome de uma variável 
+MimosaData <- (mimosa_data_quali)
+head(MimosaData)
+
+## PCA com colunas específicas 
+help("prcomp")
+dados_num <- MimosaData %>% select(
+  species,
+  petalWidth, petalLength, petalTubeLength,
+  caWidth, sepalWidth, sepalTubeLength, sepalLength,
+  filamentLength, antherWidth, antherLength,
+  ovaryLength, ovaryWidth, styleLength )
+
+# Ver primeiras linhas
+head(dados_num)
+# Estrutura das variáveis (tipo de cada coluna)
+str(dados_num)

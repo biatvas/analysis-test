@@ -1,0 +1,24 @@
+﻿species;colWidth;petalWidth;petalLength;petalTubeLength;caWidth;sepalWidth;sepalTubeLength;sepalLength;filamentLength;antherWidth;antherLength;ovaryLength;ovaryWidth;styleLength;infOrganization;infType;infShape;flowerMerosity;calyxShape;corollaShape
+Mimosa_chiliomera;3.4;0.86;4.1;2.91;1.68;0.42;0.44;0.62;14.2;0.53;0.53;0.65;0.28; 4.1;NA;capitula;globosa;4-merous;pappiform;NA
+Mimosa_adenocarpa;3.5;0.87;2.7;1.32;2.14;0.53;0.76;1.00; 7.5;0.43;0.43;1.03;0.41; 7.2;axillary;capitula;moriform;4-merous;campanulate;vase-shaped
+Mimosa_mollis;4.3;0.86;3.1;2.11;1.54;0.31;0.55;0.64; 9.7;0.47;0.51;1.02;0.47; 9.0;pseudoracemose;capitula;globose;5-merous;campanulate;vase-shaped
+Mimosa_acantholoba_eurycarpa;3.1;0.61;2.7;1.60;2.63;0.53;0.93;1.21; 6.6;0.36;0.32;0.84;0.31; 5.2;hysteranthous;capitula or spike;globose, ellipsoide or spicate;5-merous;campanulate;NA
+Mimosa_arenosa_arenosa;3.2;0.80;2.2;1.02;2.25;0.56;0.70;0.92; 7.1;0.34;0.36;0.70;0.33; 7.8;NA;spike;NA;4-merous;campanulate;turbinate
+Mimosa_ulei_ulei;6.7;1.67;5.6;3.81;2.89;0.72;0.85;0.99;17.3;0.75;0.74;1.24;0.57;13.2;paniculate;capitula;subglobose;4-merous;NA;funnelform-campanulate
+Mimosa_depauperata;3.5;0.87;2.9;1.77;1.99;0.50;0.96;1.04; 7.8;0.41;0.38;0.94;0.37; 6.4;NA;NA;NA;4-merous;NA;NA
+Mimosa_bimucronata;3.1;0.77;2.9;2.03;1.78;0.45;0.75;0.90; 9.0;0.34;0.36;0.94;0.35; 8.6;paniculate;capitula;NA;4-merous;campanulate;campanulate
+Mimosa_strobiliflora;3.4;0.86;3.9;3.05;1.21;0.30;0.48;0.52; 9.4;0.66;0.56;0.96;0.52; 7.4;paniculate;capitula;subglobose;4-merous;campanulate;funnelform
+Mimosa_weddelliana;2.3;0.58;2.9;2.19;1.48;0.37;0.77;0.84; 6.2;0.34;0.36;0.67;0.30; 6.8;pseudoraceme;capitula;globose;4-merous;campanulate;vase-shaped
+Mimosa_cyclophylla;2.1;0.52;3.2;1.75;1.79;0.45;0.66;1.72;10.2;0.59;0.49;2.56;1.13;11.4;paniculate;capitula;globose;4-merous;NA;funnelform
+Mimosa_pilulifera;2.2;0.55;1.2;0.76;0.89;0.22;0.11;0.11; 2.4;0.35;0.32;0.65;0.35; 1.4;NA;capitula;globose;4-merous;campanulate;turbinate-obovoid
+Mimosa_malacophylla;3.7;0.73;2.4;1.38;1.94;0.39;0.73;0.90; 4.7;0.39;0.53;1.01;0.38; 3.5;pseudoracemose or paniculate;capitula;ellipsoid or subglobose;(4-)5-merous;campanulate;NA
+Mimosa_barretoi;5.1;1.26;3.0;1.37;1.81;0.44;0.73;1.04; 8.1;0.61;0.76;2.30;1.86; 7.7;axillary or pseudoraceme;spike;NA;4-merous;campanulate;ovoid-ellipsoid
+Mimosa_acutistipula_acutistipula;3.5;0.87;2.3;1.34;2.34;0.59;0.64;0.84; 6.9;0.44;0.46;0.83;0.36; 5.0;axillary or paniculate;spike;NA;4-merous;cupulate;campanulate
+Mimosa_dichroa;3.4;0.84;2.8;1.64;2.86;0.72;1.08;1.56; 7.7;0.40;0.48;0.77;0.37; 6.8;fasciculate;spike;NA;4-merous;cupulate;campanulate
+Mimosa_casta;2.9;0.72;2.6;1.83;1.24;0.31;0.27;0.34; 8.8;0.40;0.32;0.65;0.38; 9.5;pseudoraceme;capitula;globose;4-merous;NA;vase-shaped or the smaller ones narrowly turbinate
+Mimosa_revoluta;3.6;0.72;2.9;1.72;2.00;0.40;1.09;1.22; 8.0;0.53;0.81;1.27;0.46; 5.2;NA;capitula;globose;5(-6)-merous;;NA
+Mimosa_macedoana;1.9;0.47;1.7;0.77;0.62;0.16;0.11;0.13; 4.2;0.33;0.35;0.56;0.39; 3.3;NA;capitula;subglobose;4-merous;campanulate-patelliform;obvoid-turbinate
+Mimosa_pteridifolia;3.0;0.75;2.0;0.74;2.74;0.69;0.62;1.52; 6.5;0.49;0.38;0.80;0.50; 5.0;paniculate;spike;NA;4-merous;cupulate;campanulate
+Mimosa_robusta;3.3;0.66;3.7;1.39;1.01;0.20;0.38;0.46;10.1;0.32;0.55;1.80;0.39; 6.5;NA;capitula;NA;4-merous;NA;NA
+Mimosa_pithecolobioides;2.5;0.49;2.3;1.63;2.05;0.41;0.93;1.10; 5.4;0.35;0.64;0.79;0.30; 3.3;NA;spike;NA;5-merous;NA;NA
+Mimosa_irrigua;2.1;0.43;2.7;1.65;2.35;0.47;1.44;1.79; 5.2;0.42;0.57;0.66;0.37; 3.1;paniculate;capitula;globose;5-merous;campanulate;narrowly ovate
