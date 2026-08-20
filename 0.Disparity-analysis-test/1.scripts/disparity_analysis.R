@@ -6,7 +6,6 @@ library(phytools)
 library(ggplot2)
 library(vegan)
 library(FactoMineR) #PCA
-library(dispRity)
 library(ade4) #tem a funcao que trabalha com dados mistos!
 library(dplyr)
 library(cluster)
