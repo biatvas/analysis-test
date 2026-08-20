@@ -1,5 +1,4 @@
 ### download packages =====
-
 library(readr)
 library(stats)
 library(dispRity)
@@ -82,6 +81,8 @@ dat_quali <- read.csv("Documents/GitHub/analysis-test/0.Disparity-analysis-test/
                                            sep = ";")
 rownames(dat_quali) = dat_quali$species
 traits <- dat_quali[, 2:21]
+
+#definir categorias dos dados quali? e talvez avaliar como fazer input de dados
 
 str(dat_quali)
 data <- dat_quali[, -1] #exclui a coluna com nomes de especies
@@ -174,6 +175,7 @@ rownames(mimosa_data_quali2) <- mimosa_data_quali2[[1]]
 # Verificar nomes que não batem
 setdiff(rownames(mimosa_data_quali2), tree$tip.label)  # nos dados, mas não na árvore
 setdiff(tree$tip.label, rownames(mimosa_data_quali2))  # na árvore, mas não nos dados
+
 # Podar árvore para manter apenas espécies que existem nos dados
 prunedTree <- keep.tip(tree, rownames(mimosa_data_quali2))
 scores_for_plot <- scores_nmds2[, 1:2]
