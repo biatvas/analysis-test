@@ -1,6 +1,5 @@
 #==============================================================================#
 # 1. Head ----------------------------------------------------------------------
-#==============================================================================#
 
 #defining work directory setwd("")
 
@@ -12,11 +11,8 @@ morpho_data <- read.csv("Documents/GitHub/bvasconcelos-IC-disparidade-floral/1.d
   
 #==============================================================================#
 # 2. Checking morpho dataset ---------------------------------------------------
-
 #==============================================================================#
 # 2.1 Select columns and correct data -----------------------------------------
-
-
 str(morpho_data) #checking the type of each variable
 
 traits <- cbind("taxon" = morpho_data$taxon, morpho_data[,6:83])
@@ -51,7 +47,6 @@ traits_2 <- traits
 #=========================#
 
 # Primeiro, vamos remover espaços das colunas contínuas. 
-
 no_space <- as.data.frame(sapply(traits_2[continuous_col], function(x) gsub("\\s+", "", x)))
 
 #verificando se nada foi alterado no nome das colunas ou se NA foram gerados
